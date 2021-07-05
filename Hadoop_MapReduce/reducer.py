@@ -1,7 +1,7 @@
 '''
 @Author: Sailesh Chauhan
 @Date: 04-07-2021
-@Title : This is code for aggregating value for key in hadoop streaming.
+@Title : This is program for aggregating value of each distinct key in hadoop streaming.
 '''
 
 import sys

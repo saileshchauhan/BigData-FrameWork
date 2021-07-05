@@ -1,7 +1,7 @@
 '''
 @Author: Sailesh Chauhan
 @Date: 04-07-2021
-@Title : This is code for creating key value pair for hadoop streaming.
+@Title : This is program for creating key value pair for hadoop streaming.
 '''
 import sys
 
