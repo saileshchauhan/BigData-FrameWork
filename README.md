@@ -5,7 +5,7 @@ Next, PySpark branch has Jupyter Notebook implementing RDD creation, Transformat
 * PySpark Setup.
   * Version:- spark-3.1.2-bin-hadoop2.7
   * OS:- Windows 10
-  * Java:- Jdk 8
+  * Java:- jdk1.8.0_291 (Version 8) 
   * Notebook:- Jupyter Notebook
   * Other installation:- FindSpark
     * [Spark Setup Document](https://docs.google.com/document/d/12zzxmJg94L0DXfeIHCHvxlqqj1jsP-mux2juhQBH_bA/edit)
@@ -15,7 +15,7 @@ Next, PySpark branch has Jupyter Notebook implementing RDD creation, Transformat
 * Hadoop Setup.
   * Version:- hadoop 3.3.x
   * OS:- Windows 10
-  * Java:- Jdk 8
+  * Java:- jdk1.8.0_291 (Version 8) 
   * bin used:- hadoop 3.3.1
   * MapReduce
     * changed mapred-site.xml configurations. Referal Docs available at hadoop branch.
